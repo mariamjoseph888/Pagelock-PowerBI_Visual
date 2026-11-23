@@ -1,0 +1,26 @@
+{
+  "visual": {
+    "name": "pagelock",
+    "displayName": "Page Lock",
+    "guid": "pagelock8B1D26984707449692A8CF54BCE434DD",
+    "visualClassName": "Visual",
+    "version": "1.0.0.0",
+    "description": "Email + password gate. On success it filters the bound Access table to the signed-in email so measures can unlock protected visuals. Convenience lock only, not security.",
+    "supportUrl": "https://github.com/mariamjoseph888/Pagelock---Power-BI-Visual.git",
+    "gitHubUrl": "https://github.com/mariamjoseph888/Pagelock---Power-BI-Visual.git"
+  },
+  "apiVersion": "5.11.1",
+  "author": {
+    "name": "Mariam",
+    "email": "mariaxjoseph111@gmail.com"
+  },
+  "assets": {
+    "icon": "assets/icon.png"
+  },
+  "externalJS": null,
+  "style": "style/visual.less",
+  "capabilities": "capabilities.json",
+  "dependencies": null,
+  "stringResources": [],
+  "version": "1.0.0.0"
+}
