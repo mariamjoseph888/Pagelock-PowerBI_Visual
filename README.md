@@ -2,7 +2,7 @@
 
 A Power BI custom visual: an email + password gate for protected pages or visuals. After a correct sign-in it filters the bound Access table to that email, and a measure uses that filter to unlock the protected visuals.
 
-> **This is a convenience lock, not security.** The data stays in the model. Hashes live in the report, and anyone with edit rights or a copy of the .pbix can bypass it. Never use "Publish to web". Use Row-Level Security for confidential data. The visual was not tested in Power BI Desktop/service by its author, so try it on a copy first.
+> **This is a convenience lock, not security.** The data stays in the model. Hashes live in the report, and anyone with edit rights or a copy of the .pbix can bypass it. Never use "Publish to web". Use Row-Level Security for confidential data. 
 
 ## Fields
 - **Email**: `Access[Email]`
