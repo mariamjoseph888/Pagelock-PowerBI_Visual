@@ -6,8 +6,8 @@
     "visualClassName": "Visual",
     "version": "1.0.0.0",
     "description": "Email + password gate. On success it filters the bound Access table to the signed-in email so measures can unlock protected visuals. Convenience lock only, not security.",
-    "supportUrl": "https://github.com/mariamjoseph888/Pagelock---Power-BI-Visual.git",
-    "gitHubUrl": "https://github.com/mariamjoseph888/Pagelock---Power-BI-Visual.git"
+    "supportUrl": "https://github.com/mariamjoseph888/Pagelock-PowerBI_Visual.git",
+    "gitHubUrl": "https://github.com/mariamjoseph888/Pagelock-PowerBI_Visual.git"
   },
   "apiVersion": "5.11.1",
   "author": {
